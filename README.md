@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently working on: **Renewable energy projects, Machine Learning for energy markets.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
